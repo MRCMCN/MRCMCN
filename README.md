@@ -1,16 +1,26 @@
 ## Hi there 👋
 I'm a Master's student in Applied Data Science for Banking and Finance with a background in Law and Technology, which gives me a multidisciplinary perspective on how data and technology shape businesses and markets.
-<!--
-**MRCMCN/MRCMCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🎓Education
+**MSc in Applied Data Science for Banking and Finance**
+Università Cattolica del Sacro Cuore, (2024-Present)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Bachelor's Degree in Law and Technology**
+Università degli Studi di Padova, (2021-2024)
+
+## 🛠️ Skills
+
+Programming: Python, R, SQL.
+Tools: Git, SAS Viya, Power BI, Excel.
+
+## 🌍 Languages 
+
+Italian (Native), English (C1), French (A2).
+
+## 📫 Get in Touch
+
+Email: marco.macioni@icloud.com
+[LinkedIn](https://www.linkedin.com/in/marco-macioni-620431415/)
+
+
+
