@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Marco, an MSc student in Applied Data Science for Banking and Finance with a background in Law and Technology.
+I'm a Master's student in Applied Data Science for Banking and Finance with a background in Law and Technology, which gives me a multidisciplinary perspective on how data and technology shape businesses and markets.
 <!--
 **MRCMCN/MRCMCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
