@@ -2,7 +2,7 @@
 I'm a Master's student in Applied Data Science for Banking and Finance with a background in Law and Technology, which gives me a multidisciplinary perspective on how data and technology shape businesses and markets.
 
 ## 🎓Education
-**MSc in Applied Data Science for Banking and Finance**
+**MSc in Applied Data Science for Banking and Finance**\
 Università Cattolica del Sacro Cuore, (2024-Present)
 
 **Bachelor's Degree in Law and Technology**
