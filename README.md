@@ -19,8 +19,8 @@ Italian (Native), English (C1), French (A2).
 
 ## 📫 Get in Touch
 
-Email: marco.macioni@icloud.com\
-[LinkedIn](https://www.linkedin.com/in/marco-macioni-620431415/)
+[LinkedIn](https://www.linkedin.com/in/marco-macioni-620431415/)\
+Email: marco.macioni@icloud.com
 
 
 
